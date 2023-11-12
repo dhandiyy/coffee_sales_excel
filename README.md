@@ -1,4 +1,4 @@
-## Mini project about how to using excel to analysis and creating data visualization
+## Mini project about how to using excel to analysis and creating dashboard data visualization
 
 This project uses data from:
 https://github.com/mochen862/excel-project-coffee-sales.git
